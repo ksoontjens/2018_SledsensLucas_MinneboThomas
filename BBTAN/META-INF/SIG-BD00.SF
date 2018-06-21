@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: 1.6.0_16 (Sun Microsystems Inc.)
+BDJ-Signature-Version: 1.0
+SHA1-Digest-Manifest: 6gNLoz6u5/Yd65czGngXCUjbCsk=
+
+Name: hellotvxlet/HelloTVXlet.class
+SHA1-Digest: C9NaJXORcayr4GmBICVwYqNll3U=
+
+Name: hellotvxlet/ball.class
+SHA1-Digest: QblFyJcHXbHclYB+oWChZKxYDck=
+
+Name: hellotvxlet/Subject.class
+SHA1-Digest: Mg1XJ1vgpHiQCmiuKwMAGY6HMKs=
+
+Name: hellotvxlet/brick.class
+SHA1-Digest: c9A2z3XeUlcN9itElyv6NGJmT78=
+
+Name: hellotvxlet/SubjectInterface.class
+SHA1-Digest: 3fKcGK2Z5N/Gy8jEviNskoIq2rQ=
+
+Name: hellotvxlet/ObserverInterface.class
+SHA1-Digest: Bo1NMRjHMI9UCJqpsAR2BJIJ2l0=
+
+Name: hellotvxlet/bluray.HelloTVXlet.perm
+SHA1-Digest: Iz2EmX/hIvVXbO3PX0e6hezSY28=
+
+Name: hellotvxlet/Sprite.class
+SHA1-Digest: L0F4zw6Pk5m7vMB+xfb7VdPFrdg=
+
+Name: hellotvxlet/Observer.class
+SHA1-Digest: mLBoi1ObUzeiA3QW53VRVvd26/A=
+
